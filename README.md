@@ -1,5 +1,5 @@
 # TweeterDataAnalysis
-Import the data using Tweeter API and perform the analysis to generate the analysis of tweets posted by 1 account
+Import the data using Tweeter API and perform the analysis to generate the data insights of tweets posted in last 1 month.
 
 The main purpose of this project is to import the data using Tweeter API, perform data cleaning and generate the insights about the tweets posted and likes, comments received on the posted tweets in last 1 year.
 
